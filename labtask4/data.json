@@ -38,5 +38,15 @@
         "hobby1": "Singing",
         "hobby2": null,
         "hobby3": null
+    },
+    {
+        "name": "arnob",
+        "email": "mahinzamanarnob@gmail.com",
+        "password": "32434",
+        "comment": "drgg",
+        "gender": "Other",
+        "hobby1": "Singing",
+        "hobby2": null,
+        "hobby3": null
     }
 ]
